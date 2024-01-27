@@ -1,6 +1,6 @@
 <div align="center">
-<p>I like machine learning.</p>
- 
+<p>I am a Software Developer - I like machine learning - I enjoy Rust</p>
+
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankarmedhi/)
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dipankarmedh1)
  [![Newsletter](https://img.shields.io/badge/NewsLetter-F47521?style=for-the-badge&logoColor=white)](https://aimatrix.substack.com/)
