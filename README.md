@@ -1,5 +1,5 @@
 <div align="center">
-<p>Machine Learning Engineer - I enjoy Rust</p>
+<p>I 💛 AI and Machine Learning</p>
 
  [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/imdmedhi)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankarmedhi/)
