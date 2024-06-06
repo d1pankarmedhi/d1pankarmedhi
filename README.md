@@ -39,7 +39,7 @@
   <tr>
     <td style="text-align: center; vertical-align: top;"> <!-- comment -->
       <h3><a href="https://github.com/d1pankarmedhi/image-search-engine">Vechicle counting</a></h3>
-       <img src="https://i.ibb.co/VmctXnm/image.png" alt="Description of gif 4" style="width: 200px; height: 200px;">
+       <img src="https://i.ibb.co/F6bt7v8/car-tracking.gif" alt="vehicle-counting" style="width: 200px; height: 200px;">
       <p>Tracking and Counting<br>vechicles on road</p>
     </td>
     <td style="text-align: center; vertical-align: top;">
