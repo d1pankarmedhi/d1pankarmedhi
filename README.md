@@ -36,6 +36,28 @@
       <p>A rust cli tool for generating<br> boilerplate code templates</p>
     </td>
   </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <h3><a href="https://github.com/d1pankarmedhi/image-search-engine">Vechicle counting</a></h3>
+       <img src="https://i.ibb.co/VmctXnm/image.png" alt="Description of gif 4" style="width: 200px; height: 200px;">
+      <p>Tracking and Counting<br>vechicles on road</p>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <h3><a href="https://github.com/d1pankarmedhi/rsearch-engine">Rust Text search engine</a></h3>
+      <img src="https://i.ibb.co/4RMHWL4/image.png" alt="brand-classification" style="width: 200px; height: 200px;">
+      <p>Text search engine built<br>with rust and actix-web</p>
+    </td>
+    <td style="text-align: center; vertical-align: top;">
+      <h3><a href="https://github.com/d1pankarmedhi/autonomous-vehicle">Autonomous vehicle</a></h3>
+      <img src="https://github.com/Dipankar-Medhi/self-driving-car/raw/master/driving_gif.gif" alt="fine-tuning" style="width: 200px; height: 200px;">
+      <p>Autonomous car with tensorflow</p>
+    </td>
+    <td style="text-align: center;">
+      <h3><a href="https://github.com/d1pankarmedhi/diabetes_prediction/tree/master">Diabetes prediction</a></h3>
+      <img src="https://github.com/Dipankar-Medhi/diabetes_prediction/raw/master/Diabetes-Predict1.png" alt="preview-img" style="width: 200px; height: 200px;">
+      <p>EDA & Prediction of<br>Diabetic pregnant women</p>
+    </td>
+  </tr>
 
 </table>
 
