@@ -11,8 +11,10 @@
  [![Newsletter](https://img.shields.io/badge/NewsLetter-F47521?style=for-the-badge&logoColor=white)](https://aimatrix.substack.com/)
 
  -->
+---
 
-
+<details>
+<summary>🤗 Check out my projects</summary>
  <table style="width: 100%; table-layout: fixed;">
   <tr>
        <td style="text-align: center; vertical-align: top;"> <!-- comment -->
@@ -60,7 +62,7 @@
   </tr>
 
 </table>
-
+</details>
 </div>
 
 
