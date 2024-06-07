@@ -1,5 +1,5 @@
 <div align="center">
-<p>I 💛 AI and Machine Learning</p>
+<h3>I 💛 AI and Machine Learning</h3>
 <!--
  [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/imdmedhi)
  -->
