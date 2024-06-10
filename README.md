@@ -14,7 +14,7 @@
 ---
 
 <details>
-<summary>🤗 Check out my projects</summary>
+<summary>I love exploring and building stuffs. Here are some of the projects I worked on.</summary>
  <table style="width: 100%; table-layout: fixed;">
   <tr>
        <td style="text-align: center; vertical-align: top;"> <!-- comment -->
