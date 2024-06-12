@@ -18,9 +18,14 @@
  <br>
  <table style="width: 100%; table-layout: fixed;">
   <tr>
-       <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <h3><a href="https://github.com/d1pankarmedhi/document_parsing">Document Parsing</a></h3>
+       <img src="https://github.com/d1pankarmedhi/document_parsing/assets/136924835/33806ef6-b5ba-4f42-a240-cfa727fb21bb" alt="parsing-document" style="width: 200px; height: 200px;">
+      <p>Parsing documents with<br>different tools and techniques</p>
+    </td>
+    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
       <h3><a href="https://github.com/d1pankarmedhi/image-search-engine">Image Search Engine</a></h3>
-       <img src="https://i.ibb.co/P9rtCWT/image.png" alt="Description of gif 4" style="width: 200px; height: 200px;">
+       <img src="https://i.ibb.co/P9rtCWT/image.png" alt="img-search-engine" style="width: 200px; height: 200px;">
       <p>Vector image search using<br>S3 and Pinecone/chroma</p>
     </td>
     <td style="text-align: center; vertical-align: top;">
@@ -33,13 +38,14 @@
       <img src="https://i.ibb.co/FJtK50K/image.png" alt="fine-tuning" style="width: 200px; height: 200px;">
       <p>Collection of llm fine-tuning<br> notebooks and code samples</p>
     </td>
+
+  </tr>
+  <tr>
     <td style="text-align: center;">
       <h3><a href="https://github.com/d1pankarmedhi/ghr">ghr</a></h3>
       <img src="https://i.ibb.co/dK90Q2r/image.png" alt="preview-img" style="width: 200px; height: 200px;">
       <p>A rust cli tool for generating<br> boilerplate code templates</p>
     </td>
-  </tr>
-  <tr>
     <td style="text-align: center; vertical-align: top;"> <!-- comment -->
       <h3><a href="https://github.com/d1pankarmedhi/image-search-engine">Vechicle counting</a></h3>
        <img src="https://i.ibb.co/F6bt7v8/car-tracking.gif" alt="vehicle-counting" style="width: 200px; height: 200px;">
@@ -55,7 +61,10 @@
       <img src="https://github.com/Dipankar-Medhi/self-driving-car/raw/master/driving_gif.gif" alt="fine-tuning" style="width: 200px; height: 200px;">
       <p>Autonomous car with tensorflow</p>
     </td>
-    <td style="text-align: center;">
+    
+  </tr>
+  <tr>
+   <td style="text-align: center;">
       <h3><a href="https://github.com/d1pankarmedhi/diabetes_prediction/tree/master">Diabetes prediction</a></h3>
       <img src="https://github.com/Dipankar-Medhi/diabetes_prediction/raw/master/Diabetes-Predict1.png" alt="preview-img" style="width: 200px; height: 200px;">
       <p>EDA & Prediction of<br>Diabetic pregnant women</p>
