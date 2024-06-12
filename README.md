@@ -14,7 +14,8 @@
 ---
 
 <details>
-<summary>Things I built</summary>
+<summary>I love building AI products. Here are some of the stuffs I worked on:</summary>
+ <br>
  <table style="width: 100%; table-layout: fixed;">
   <tr>
        <td style="text-align: center; vertical-align: top;"> <!-- comment -->
