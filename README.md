@@ -14,7 +14,7 @@
 ---
 
 <details>
-<summary>I love building AI products. Here are some of the stuffs I worked on:</summary>
+<summary>🚀 Some cool projects</summary>
  <br>
  <table style="width: 100%; table-layout: fixed;">
   <tr>
