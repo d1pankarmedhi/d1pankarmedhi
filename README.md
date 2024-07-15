@@ -11,7 +11,7 @@
  [![Newsletter](https://img.shields.io/badge/NewsLetter-F47521?style=for-the-badge&logoColor=white)](https://aimatrix.substack.com/)
 
  -->
----
+
 
 <details>
 <summary>🚀 Some cool projects</summary>
