@@ -23,8 +23,16 @@
        <img src="https://private-user-images.githubusercontent.com/136924835/349441908-a379833a-8c90-462e-998d-752c1d6e9f75.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEyMjM0OTUsIm5iZiI6MTcyMTIyMzE5NSwicGF0aCI6Ii8xMzY5MjQ4MzUvMzQ5NDQxOTA4LWEzNzk4MzNhLThjOTAtNDYyZS05OThkLTc1MmMxZDZlOWY3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxN1QxMzMzMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYWE0NDBmZDMwMmExNGU1ZjQyOGI5OTBlNjM0NGU2NjZhNzQ4OWUyZTkxZTBjOTVmNjdmNGMwMTFmY2M3ZGMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vjovw_rUTXAVMlde-bkBE1cfGvHjEIQnGSavtQ-AlZU" alt="parsing-document" style="width: 200px; height: 200px;">
       <p>Understand non-textual context<br>using open-source models.</p>
    </td>
-    
-
+   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <h3><a href="https://github.com/d1pankarmedhi/captionAI">PicaChain</a></h3>
+       <img src="https://github.com/user-attachments/assets/8965d308-6bc7-42c1-b00d-c2e12d8f7ef0" alt="parsing-document" style="width: 200px; height: 200px;">
+      <p>Build quick LLM pipelines <br>for all your AI applications</p>
+   </td>
+    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <h3><a href="https://github.com/d1pankarmedhi/captionAI">LegalSummarizer</a></h3>
+       <img src="https://private-user-images.githubusercontent.com/136924835/296476548-4968735b-b3a8-4633-8edd-6b8bed7ba558.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEyMjM4NjksIm5iZiI6MTcyMTIyMzU2OSwicGF0aCI6Ii8xMzY5MjQ4MzUvMjk2NDc2NTQ4LTQ5Njg3MzViLWIzYTgtNDYzMy04ZWRkLTZiOGJlZDdiYTU1OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxN1QxMzM5MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05M2MxZjg3OTYyMTg1MzUwNzk0MTY5YjU1NGQ4ZGJmMGE2YTRhMjczZjhkYTFiZmExNmExYmE2MzM2NTBjMjIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dgINADjtCTllZucBSXZ6b9urghcqLvRi36vn4OjJYJ8" alt="parsing-document" style="width: 200px; height: 200px;">
+      <p>Context aware summarizer<br>for contracts and agreements.</p>
+   </td>
   </tr>
   <tr>
    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
