@@ -19,6 +19,15 @@
  <table style="width: 100%; table-layout: fixed;">
   <tr>
    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <h3><a href="https://github.com/d1pankarmedhi/captionAI">CaptionAI</a></h3>
+       <img src="https://private-user-images.githubusercontent.com/136924835/349441908-a379833a-8c90-462e-998d-752c1d6e9f75.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEyMjM0OTUsIm5iZiI6MTcyMTIyMzE5NSwicGF0aCI6Ii8xMzY5MjQ4MzUvMzQ5NDQxOTA4LWEzNzk4MzNhLThjOTAtNDYyZS05OThkLTc1MmMxZDZlOWY3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxN1QxMzMzMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYWE0NDBmZDMwMmExNGU1ZjQyOGI5OTBlNjM0NGU2NjZhNzQ4OWUyZTkxZTBjOTVmNjdmNGMwMTFmY2M3ZGMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vjovw_rUTXAVMlde-bkBE1cfGvHjEIQnGSavtQ-AlZU" alt="parsing-document" style="width: 200px; height: 200px;">
+      <p>Understand non-textual context<br>using open-source models.</p>
+   </td>
+    
+
+  </tr>
+  <tr>
+   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
       <h3><a href="https://github.com/d1pankarmedhi/document_parsing">Document Parsing</a></h3>
        <img src="https://github.com/d1pankarmedhi/document_parsing/assets/136924835/33806ef6-b5ba-4f42-a240-cfa727fb21bb" alt="parsing-document" style="width: 200px; height: 200px;">
       <p>Parsing documents with<br>different tools and techniques</p>
@@ -63,14 +72,7 @@
     </td>
     
   </tr>
-  <tr>
-   <td style="text-align: center;">
-      <h3><a href="https://github.com/d1pankarmedhi/diabetes_prediction/tree/master">Diabetes prediction</a></h3>
-      <img src="https://github.com/Dipankar-Medhi/diabetes_prediction/raw/master/Diabetes-Predict1.png" alt="preview-img" style="width: 200px; height: 200px;">
-      <p>EDA & Prediction of<br>Diabetic pregnant women</p>
-    </td>
-  </tr>
-
+ 
 </table>
 </details>
 </div>
