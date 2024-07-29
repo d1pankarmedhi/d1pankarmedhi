@@ -33,6 +33,11 @@
        <img src="https://github.com/user-attachments/assets/f26b44af-8a58-407c-8733-602de76c7f8b" alt="parsing-document" style="width: 200px; height: 200px;">
       <p>Context aware summarizer<br>for contracts and agreements.</p>
    </td>
+   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <h3><a href="https://github.com/d1pankarmedhi/qllm">qllm</a></h3>
+       <img src="https://github.com/user-attachments/assets/0a02e65c-3c67-48d4-9b09-9f2be11b63e7" alt="qllm" style="width: 200px; height: 200px;">
+      <p>Simple model quantization<br>tool in python.</p>
+   </td>
   </tr>
   <tr>
    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
