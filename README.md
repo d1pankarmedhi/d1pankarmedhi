@@ -25,6 +25,7 @@ explains why people didn’t think of it 200 years ago…"
 
 <div align="center">
  <table style="width: 100%; table-layout: fixed;">
+
   <tr>
    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
       <h3><a href="https://github.com/d1pankarmedhi/captionAI">CaptionAI</a></h3>
@@ -47,6 +48,15 @@ explains why people didn’t think of it 200 years ago…"
       <p>Simple model quantization<br>tool in python.</p>
    </td>
   </tr>
+<!--  br  -->
+  <tr>
+   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <h3><a href="https://github.com/d1pankarmedhi/algoviz">AlgoViz</a></h3>
+       <img src="https://github.com/user-attachments/assets/aa0d2cb2-7f20-434b-be8a-dd13c1b2380a" alt="parsing-document" style="width: 200px; height: 200px;">
+      <p>Visualizing algorithms using C++</p>
+   </td>
+  </tr>
+<!--  br  -->
   <tr>
    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
       <h3><a href="https://github.com/d1pankarmedhi/document_parsing">Document Parsing</a></h3>
@@ -60,7 +70,7 @@ explains why people didn’t think of it 200 years ago…"
     </td>
     <td style="text-align: center; vertical-align: top;">
       <h3><a href="https://github.com/d1pankarmedhi/ViT-vision-transformer">Vision transformer</a></h3>
-      <img src="https://private-user-images.githubusercontent.com/136924835/302986821-bff5e439-9655-4831-b3e5-19d6c0dcb52a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMjkzMDksIm5iZiI6MTcyMDAyOTAwOSwicGF0aCI6Ii8xMzY5MjQ4MzUvMzAyOTg2ODIxLWJmZjVlNDM5LTk2NTUtNDgzMS1iM2U1LTE5ZDZjMGRjYjUyYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwM1QxNzUwMDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOWU3MWJhMzQwYmI0YzM4YzRkNWJiNjZhOTZlZmQ0YTNiZTVkYjhhYWJlZGVjOGRmZWQwMzA3MDdiNDQwNTBiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kFaj-hmsn-QJV2Gkvpz79Mtf3ILF9Zd5gz3HNcNLsNU" alt="brand-classification" style="width: 200px; height: 200px;">
+      <img src="https://github.com/d1pankarmedhi/ViT-vision-transformer/assets/136924835/bff5e439-9655-4831-b3e5-19d6c0dcb52a" alt="brand-classification" style="width: 200px; height: 200px;">
       <p>Shoe brand classifier<br>using vision transformer</p>
     </td>
     <td style="text-align: center; vertical-align: top;">
