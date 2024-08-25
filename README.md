@@ -11,11 +11,14 @@
  [![Newsletter](https://img.shields.io/badge/NewsLetter-F47521?style=for-the-badge&logoColor=white)](https://aimatrix.substack.com/)
 
  -->
+</div>
 
-
-<details>
-<summary>🚀 Some cool projects</summary>
- <br>
+```
+"If it takes 200 years to achieve artificial intelligence, and then finally there is a textbook that explains how its done,
+the hardest part of that textbook to write will be the part that explains why people didn’t think of it 200 years ago…"
+- John MacArthy
+```
+<div align="center">
  <table style="width: 100%; table-layout: fixed;">
   <tr>
    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
@@ -87,7 +90,7 @@
   </tr>
  
 </table>
-</details>
+
 </div>
 
 
