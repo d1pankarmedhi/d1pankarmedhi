@@ -16,7 +16,7 @@
 and then finally there is a textbook that explains how its done,
 the hardest part of that textbook to write will be the part that
 explains why people didn’t think of it 200 years ago…"
-- John MacArthy
+- John MacCarthy
 ```
 </div>
 
