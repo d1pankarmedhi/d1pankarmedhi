@@ -1,16 +1,15 @@
+<!--
 <div align="center">
 <h3>I 💛 AI and Machine Learning</h3>
-<!--
  [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/imdmedhi)
- -->
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankarmedhi/)
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dipankarmedh1)
 
+ -->
  <!--
  [![Newsletter](https://img.shields.io/badge/NewsLetter-F47521?style=for-the-badge&logoColor=white)](https://aimatrix.substack.com/)
 
- -->
 ```
 "If it takes 200 years to achieve artificial intelligence,
 and then finally there is a textbook that explains how its done,
@@ -19,11 +18,20 @@ explains why people didn’t think of it 200 years ago…"
 - John MacCarthy
 ```
 </div>
+ -->
 
+```yaml
+name: Dipankar
+current_role: Machine Learning Engineer
+```
 
 
 
 <div align="center">
+<details>
+ <summary>More...</summary>
+
+  
  <table style="width: 100%; table-layout: fixed;">
 
   <tr>
@@ -105,6 +113,7 @@ explains why people didn’t think of it 200 years ago…"
   </tr>
  
 </table>
+</details>
 
 </div>
 
