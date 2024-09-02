@@ -60,8 +60,13 @@ current_role: Machine Learning Engineer
   <tr>
    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
       <h3><a href="https://github.com/d1pankarmedhi/algoviz">AlgoViz</a></h3>
-       <img src="https://github.com/user-attachments/assets/aa0d2cb2-7f20-434b-be8a-dd13c1b2380a" alt="parsing-document" style="width: 200px; height: 200px;">
+       <img src="https://github.com/user-attachments/assets/aa0d2cb2-7f20-434b-be8a-dd13c1b2380a" alt="algoviz" style="width: 200px; height: 200px;">
       <p>Visualizing algorithms using C++</p>
+   </td>
+      <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <h3><a href="https://github.com/d1pankarmedhi/PingPong">PingPong</a></h3>
+       <img src="https://github.com/user-attachments/assets/383ee662-2b31-4fba-a5fc-38fc19d2ecd4" alt="pingpong" style="width: 200px; height: 200px;">
+      <p>Ping Pong game with C++</p>
    </td>
   </tr>
 <!--  br  -->
