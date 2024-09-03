@@ -29,7 +29,7 @@ current_role: Machine Learning Engineer
 
 <div align="center">
 <details>
- <summary>More...</summary>
+ <summary>more...</summary>
 
   
  <table style="width: 100%; table-layout: fixed;">
