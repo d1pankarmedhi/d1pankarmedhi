@@ -13,7 +13,7 @@
 
  -->
 
-
+<!--
 </div>
 
 
@@ -26,48 +26,48 @@
  <table style="width: 100%; table-layout: fixed;">
 
   <tr>
-   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+   <td style="text-align: center; vertical-align: top;">
       <h3><a href="https://github.com/d1pankarmedhi/captionAI">CaptionAI</a></h3>
        <img src="https://github.com/user-attachments/assets/33c7475d-3ff1-4592-bf31-1dec11362e97" alt="parsing-document" style="width: 200px; height: 200px;">
       <p>Understand non-textual context<br>using open-source models.</p>
    </td>
-   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+   <td style="text-align: center; vertical-align: top;"> 
       <h3><a href="https://github.com/d1pankarmedhi/captionAI">PicaChain</a></h3>
        <img src="https://github.com/user-attachments/assets/8965d308-6bc7-42c1-b00d-c2e12d8f7ef0" alt="parsing-document" style="width: 200px; height: 200px;">
       <p>Build quick LLM pipelines <br>for all your AI applications</p>
    </td>
-    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+    <td style="text-align: center; vertical-align: top;"> 
       <h3><a href="https://github.com/d1pankarmedhi/legal_summarizer">LegalSummarizer</a></h3>
        <img src="https://github.com/user-attachments/assets/f26b44af-8a58-407c-8733-602de76c7f8b" alt="parsing-document" style="width: 200px; height: 200px;">
       <p>Context aware summarizer<br>for contracts and agreements.</p>
    </td>
-   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+   <td style="text-align: center; vertical-align: top;"> 
       <h3><a href="https://github.com/d1pankarmedhi/qllm">qllm</a></h3>
        <img src="https://github.com/user-attachments/assets/0a02e65c-3c67-48d4-9b09-9f2be11b63e7" alt="qllm" style="width: 200px; height: 200px;">
       <p>Simple model quantization<br>tool in python.</p>
    </td>
   </tr>
-<!--  br  -->
+
   <tr>
-   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+   <td style="text-align: center; vertical-align: top;"> 
       <h3><a href="https://github.com/d1pankarmedhi/algoviz">AlgoViz</a></h3>
        <img src="https://github.com/user-attachments/assets/aa0d2cb2-7f20-434b-be8a-dd13c1b2380a" alt="algoviz" style="width: 200px; height: 200px;">
       <p>Visualizing algorithms using C++</p>
    </td>
-      <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+      <td style="text-align: center; vertical-align: top;"> 
       <h3><a href="https://github.com/d1pankarmedhi/PingPong">PingPong</a></h3>
        <img src="https://github.com/user-attachments/assets/383ee662-2b31-4fba-a5fc-38fc19d2ecd4" alt="pingpong" style="width: 200px; height: 200px;">
       <p>Ping Pong game with C++</p>
    </td>
   </tr>
-<!--  br  -->
+
   <tr>
-   <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+   <td style="text-align: center; vertical-align: top;"> 
       <h3><a href="https://github.com/d1pankarmedhi/document_parsing">Document Parsing</a></h3>
        <img src="https://github.com/d1pankarmedhi/document_parsing/assets/136924835/33806ef6-b5ba-4f42-a240-cfa727fb21bb" alt="parsing-document" style="width: 200px; height: 200px;">
       <p>Parsing documents with<br>different tools and techniques</p>
     </td>
-    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+    <td style="text-align: center; vertical-align: top;"> 
       <h3><a href="https://github.com/d1pankarmedhi/image-search-engine">Image Search Engine</a></h3>
        <img src="https://i.ibb.co/P9rtCWT/image.png" alt="img-search-engine" style="width: 200px; height: 200px;">
       <p>Vector image search using<br>S3 and Pinecone/chroma</p>
@@ -90,7 +90,7 @@
       <img src="https://i.ibb.co/dK90Q2r/image.png" alt="preview-img" style="width: 200px; height: 200px;">
       <p>A rust cli tool for generating<br> boilerplate code templates</p>
     </td>
-    <td style="text-align: center; vertical-align: top;"> <!-- comment -->
+    <td style="text-align: center; vertical-align: top;"> 
       <h3><a href="https://github.com/d1pankarmedhi/image-search-engine">Vechicle counting</a></h3>
        <img src="https://i.ibb.co/F6bt7v8/car-tracking.gif" alt="vehicle-counting" style="width: 200px; height: 200px;">
       <p>Tracking and Counting<br>vechicles on road</p>
@@ -113,6 +113,8 @@
 
 </div>
 
+
+-->
 
 
 
