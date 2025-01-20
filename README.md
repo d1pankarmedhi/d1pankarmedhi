@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Hi 👋, I like machines!</h3>
+<h3>Hi 👋</h3>
 <!--
  [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/imdmedhi)
  -->
