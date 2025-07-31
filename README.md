@@ -9,10 +9,17 @@
  <!--
  [![GCP](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/43b4028c-9ca4-45f6-ae92-6ccbdfaf8ab5)
  [![Newsletter](https://img.shields.io/badge/NewsLetter-F47521?style=for-the-badge&logoColor=white)](https://aimatrix.substack.com/)
-
-
  -->
+ </div>
+ 
+### Pinned repos
 
+<div align="center">
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=tiny-whisper)](https://github.com/d1pankarmedhi/tiny-whisper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=image-search-engine)](https://github.com/d1pankarmedhi/image-search-engine)
+
+</div>
 <!--
 </div>
 
