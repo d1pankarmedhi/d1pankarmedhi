@@ -18,6 +18,10 @@
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=tiny-whisper)](https://github.com/d1pankarmedhi/tiny-whisper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=image-search-engine)](https://github.com/d1pankarmedhi/image-search-engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=legal_summarizer)](https://github.com/d1pankarmedhi/legal_summarizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=mininet18)](https://github.com/d1pankarmedhi/mininet18)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=bpetokenizer)](https://github.com/d1pankarmedhi/bpetokenizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=smallLM)](https://github.com/d1pankarmedhi/smallLM)
 
 </div>
 <!--
