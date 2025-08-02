@@ -12,9 +12,9 @@
  -->
  </div>
  
-### Pinned repos
 
-<div align="center">
+<div>
+<h3>📌 Pinned</h3>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=tiny-whisper)](https://github.com/d1pankarmedhi/tiny-whisper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=image-search-engine)](https://github.com/d1pankarmedhi/image-search-engine)
