@@ -22,6 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=smallLM)](https://github.com/d1pankarmedhi/smallLM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=diffusion)](https://github.com/d1pankarmedhi/diffusion)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=InsightFlow)](https://github.com/d1pankarmedhi/InsightFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=ai-papers)](https://github.com/d1pankarmedhi/ai-papers)
 
 </div>
 <!--
