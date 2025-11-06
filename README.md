@@ -17,13 +17,13 @@
 <div>
 <h3>📌 Pinned</h3>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=tiny-whisper)](https://github.com/d1pankarmedhi/tiny-whisper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=bpetokenizer)](https://github.com/d1pankarmedhi/bpetokenizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=CascadeS2S)](https://github.com/d1pankarmedhi/CascadeS2S)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=smallLM)](https://github.com/d1pankarmedhi/smallLM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=diffusion)](https://github.com/d1pankarmedhi/diffusion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=InsightFlow)](https://github.com/d1pankarmedhi/InsightFlow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=ai-papers)](https://github.com/d1pankarmedhi/ai-papers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=tiny-whisper&description_lines_count=1)](https://github.com/d1pankarmedhi/tiny-whisper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=bpetokenizer&description_lines_count=1)](https://github.com/d1pankarmedhi/bpetokenizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=CascadeS2S&description_lines_count=1)](https://github.com/d1pankarmedhi/CascadeS2S)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=smallLM&description_lines_count=1)](https://github.com/d1pankarmedhi/smallLM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=diffusion&description_lines_count=1)](https://github.com/d1pankarmedhi/diffusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=InsightFlow&description_lines_count=1)](https://github.com/d1pankarmedhi/InsightFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=ai-papers&description_lines_count=1)](https://github.com/d1pankarmedhi/ai-papers)
 
 </div>
 <!--
