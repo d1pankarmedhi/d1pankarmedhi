@@ -1,31 +1,123 @@
 <div align="center">
 <h3>Hi 👋</h3>
-<!--
- [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/imdmedhi)
- -->
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipankarmedhi/)
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dipankarmedh1)
- [![Java](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/dmedhi)
- <!--
- [![GCP](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/43b4028c-9ca4-45f6-ae92-6ccbdfaf8ab5)
- [![Newsletter](https://img.shields.io/badge/NewsLetter-F47521?style=for-the-badge&logoColor=white)](https://aimatrix.substack.com/)
- -->
- </div>
- 
-
-<div>
-<h3>📌 Pinned</h3>
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=tiny-whisper&description_lines_count=1)](https://github.com/d1pankarmedhi/tiny-whisper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=bpetokenizer&description_lines_count=1)](https://github.com/d1pankarmedhi/bpetokenizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=CascadeS2S&description_lines_count=1)](https://github.com/d1pankarmedhi/CascadeS2S)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=smallLM&description_lines_count=1)](https://github.com/d1pankarmedhi/smallLM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=diffusion&description_lines_count=1)](https://github.com/d1pankarmedhi/diffusion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=InsightFlow&description_lines_count=1)](https://github.com/d1pankarmedhi/InsightFlow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d1pankarmedhi&repo=ai-papers&description_lines_count=1)](https://github.com/d1pankarmedhi/ai-papers)
-
+ [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/dmedhi)
 </div>
+
+---
+
+### 📌 Pinned Repositories
+
+<table>
+<tr>
+<td width="33%">
+<h3 align="center">🎙️ Tiny Whisper</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/tiny-whisper" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/tiny-whisper?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/tiny-whisper?style=social" alt="Forks"/>
+</a>
+<p>Lightweight speech recognition implementation</p>
+<a href="https://github.com/d1pankarmedhi/tiny-whisper" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">🔤 BPE Tokenizer</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/bpetokenizer" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/bpetokenizer?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/bpetokenizer?style=social" alt="Forks"/>
+</a>
+<p>Byte Pair Encoding tokenizer implementation</p>
+<a href="https://github.com/d1pankarmedhi/bpetokenizer" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">🔄 CascadeS2S</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/CascadeS2S" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/CascadeS2S?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/CascadeS2S?style=social" alt="Forks"/>
+</a>
+<p>Cascaded sequence-to-sequence model</p>
+<a href="https://github.com/d1pankarmedhi/CascadeS2S" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+<h3 align="center">🤖 Small LM</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/smallLM" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/smallLM?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/smallLM?style=social" alt="Forks"/>
+</a>
+<p>Small language model implementation</p>
+<a href="https://github.com/d1pankarmedhi/smallLM" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">🎨 Diffusion</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/diffusion" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/diffusion?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/diffusion?style=social" alt="Forks"/>
+</a>
+<p>Diffusion models from scratch</p>
+<a href="https://github.com/d1pankarmedhi/diffusion" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+
+<td width="33%">
+<h3 align="center">📊 InsightFlow</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/InsightFlow" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/InsightFlow?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/InsightFlow?style=social" alt="Forks"/>
+</a>
+<p>Data analysis and insights pipeline</p>
+<a href="https://github.com/d1pankarmedhi/InsightFlow" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="33%">
+<h3 align="center">📄 AI Papers</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/ai-papers" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/ai-papers?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/ai-papers?style=social" alt="Forks"/>
+</a>
+<p>Collection of AI research papers and notes</p>
+<a href="https://github.com/d1pankarmedhi/ai-papers" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
+</table>
+
 <!--
 </div>
 
