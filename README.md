@@ -113,7 +113,19 @@
 </a>
 </div>
 </td>
-<td width="33%"></td>
+<td width="33%">
+<h3 align="center">🖼️VLMCaption</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/vlmCaption" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/vlmCaption?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/vlmCaption?style=social" alt="Forks"/>
+</a>
+<p>A VLM for image captioning using ViT and GPT-2 backbones</p>
+<a href="https://github.com/d1pankarmedhi/vlmCaption" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td>
 <td width="33%"></td>
 </tr>
 </table>
