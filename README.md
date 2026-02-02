@@ -126,8 +126,19 @@
 </a>
 </div>
 </td>
-<td width="33%"></td>
-</tr>
+<td width="33%">
+<h3 align="center">🤖BankingAgent</h3>
+<div align="center">
+<a href="https://github.com/d1pankarmedhi/BankingAgent" target="_blank">
+<img src="https://img.shields.io/github/stars/d1pankarmedhi/BankingAgent?style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/d1pankarmedhi/BankingAgent?style=social" alt="Forks"/>
+</a>
+<p>A banking agent system built with MCP and LangGraph.</p>
+<a href="https://github.com/d1pankarmedhi/BankingAgent" target="_blank">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</div>
+</td></tr>
 </table>
 
 <!--
