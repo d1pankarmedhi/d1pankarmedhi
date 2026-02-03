@@ -57,7 +57,7 @@
 
 <tr>
 <td width="33%">
-<h3 align="center">🤖 Small LM</h3>
+<h3 align="center">🧠 Small LM</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/smallLM" target="_blank">
 <img src="https://img.shields.io/github/stars/d1pankarmedhi/smallLM?style=social" alt="Stars"/>
