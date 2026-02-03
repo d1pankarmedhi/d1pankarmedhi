@@ -114,7 +114,7 @@
 </div>
 </td>
 <td width="33%">
-<h3 align="center">🖼️VLMCaption</h3>
+<h3 align="center">🖼️ VLMCaption</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/vlmCaption" target="_blank">
 <img src="https://img.shields.io/github/stars/d1pankarmedhi/vlmCaption?style=social" alt="Stars"/>
@@ -127,7 +127,7 @@
 </div>
 </td>
 <td width="33%">
-<h3 align="center">🤖BankingAgent</h3>
+<h3 align="center">🤖 BankingAgent</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/BankingAgent" target="_blank">
 <img src="https://img.shields.io/github/stars/d1pankarmedhi/BankingAgent?style=social" alt="Stars"/>
