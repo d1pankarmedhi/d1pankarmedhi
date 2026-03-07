@@ -16,8 +16,8 @@
 <h3 align="center">🎙️ Tiny Whisper</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/tiny-whisper" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/tiny-whisper?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/tiny-whisper?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/tiny-whisper?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/tiny-whisper?style=social" alt="Forks"/> -->
 </a>
 <p>Lightweight speech recognition implementation</p>
 <a href="https://github.com/d1pankarmedhi/tiny-whisper" target="_blank">
@@ -30,8 +30,8 @@
 <h3 align="center">🔤 BPE Tokenizer</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/bpetokenizer" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/bpetokenizer?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/bpetokenizer?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/bpetokenizer?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/bpetokenizer?style=social" alt="Forks"/> -->
 </a>
 <p>Byte Pair Encoding tokenizer implementation</p>
 <a href="https://github.com/d1pankarmedhi/bpetokenizer" target="_blank">
@@ -44,8 +44,8 @@
 <h3 align="center">🔄 CascadeS2S</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/CascadeS2S" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/CascadeS2S?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/CascadeS2S?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/CascadeS2S?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/CascadeS2S?style=social" alt="Forks"/> -->
 </a>
 <p>Cascaded sequence-to-sequence model</p>
 <a href="https://github.com/d1pankarmedhi/CascadeS2S" target="_blank">
@@ -60,8 +60,8 @@
 <h3 align="center">🧠 Small LM</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/smallLM" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/smallLM?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/smallLM?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/smallLM?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/smallLM?style=social" alt="Forks"/> -->
 </a>
 <p>Small language model implementation</p>
 <a href="https://github.com/d1pankarmedhi/smallLM" target="_blank">
@@ -74,8 +74,8 @@
 <h3 align="center">🎨 Diffusion</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/diffusion" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/diffusion?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/diffusion?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/diffusion?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/diffusion?style=social" alt="Forks"/> -->
 </a>
 <p>Diffusion models from scratch</p>
 <a href="https://github.com/d1pankarmedhi/diffusion" target="_blank">
@@ -88,8 +88,8 @@
 <h3 align="center">📊 InsightFlow</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/InsightFlow" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/InsightFlow?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/InsightFlow?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/InsightFlow?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/InsightFlow?style=social" alt="Forks"/> -->
 </a>
 <p>Data analysis and insights pipeline</p>
 <a href="https://github.com/d1pankarmedhi/InsightFlow" target="_blank">
@@ -104,8 +104,8 @@
 <h3 align="center">📄 AI Papers</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/ai-papers" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/ai-papers?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/ai-papers?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/ai-papers?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/ai-papers?style=social" alt="Forks"/> -->
 </a>
 <p>Collection of AI research papers and notes</p>
 <a href="https://github.com/d1pankarmedhi/ai-papers" target="_blank">
@@ -117,8 +117,8 @@
 <h3 align="center">🖼️ VLMCaption</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/vlmCaption" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/vlmCaption?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/vlmCaption?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/vlmCaption?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/vlmCaption?style=social" alt="Forks"/> -->
 </a>
 <p>A VLM for image captioning using ViT and GPT-2 backbones</p>
 <a href="https://github.com/d1pankarmedhi/vlmCaption" target="_blank">
@@ -130,8 +130,8 @@
 <h3 align="center">🤖 BankingAgent</h3>
 <div align="center">
 <a href="https://github.com/d1pankarmedhi/BankingAgent" target="_blank">
-<img src="https://img.shields.io/github/stars/d1pankarmedhi/BankingAgent?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/d1pankarmedhi/BankingAgent?style=social" alt="Forks"/>
+<!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/BankingAgent?style=social" alt="Stars"/> -->
+<!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/BankingAgent?style=social" alt="Forks"/> -->
 </a>
 <p>A banking agent system built with MCP and LangGraph.</p>
 <a href="https://github.com/d1pankarmedhi/BankingAgent" target="_blank">
