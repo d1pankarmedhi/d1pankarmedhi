@@ -47,7 +47,7 @@
 <!-- <img src="https://img.shields.io/github/stars/d1pankarmedhi/CascadeS2S?style=social" alt="Stars"/> -->
 <!-- <img src="https://img.shields.io/github/forks/d1pankarmedhi/CascadeS2S?style=social" alt="Forks"/> -->
 </a>
-<p>Cascaded sequence-to-sequence model</p>
+<p>A low-latency (<5s) cascaded sequence-to-sequence model</p>
 <a href="https://github.com/d1pankarmedhi/CascadeS2S" target="_blank">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
