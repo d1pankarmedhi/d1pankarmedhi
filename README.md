@@ -21,32 +21,13 @@
 
 </div>
 
-
 <div align="center">
 
-```text
-┌─[ ● ● ● ]──[ dipankar@workstation:~ ]──────────────────────────────────────────┐
-│                                                                                │
-│  ❯ whoami                                                                      │
-│    Dipankar Medhi • AI Systems Engineer & Researcher                           │
-│                                                                                │
-│  ❯ current_focus --verbose                                                     │
-│    ◈  🔭 Building : Context and Memory Infrastructure for agentic Systems      │
-│    ◈  🧠 Research : Foundation Models • Multimodal LLMs • Quant                │
-│    ◈  ⚡  Stack    : PyTorch • Rust • C++ • LangGraph • FastAPI • CUDA          │
-│                                                                                │
-│  ❯ echo $CORE_PHILOSOPHY                                                       │
-│    "Building neural architectures from mathematical first principles."         │
-│                                                                                │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
-
 
 ```text
- ╭────────────────────────────────────────────────────────────────────────────╮
- │  "The best way to understand neural architectures is to build them from    │
- │   first principles."                                                       │
- ╰────────────────────────────────────────────────────────────────────────────╯
+ ╭─────────────────────────────────────────────────────────────────────────────────────────────╮
+ │  "The best way to understand something is to build it from first principles."  │
+ ╰─────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
