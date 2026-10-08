@@ -26,7 +26,7 @@
 
 ```text
  ╭─────────────────────────────────────────────────────────────────────────────────────────────╮
- │  "The best way to understand something is to build it from first principles."  │
+ │  "The best way to understand something is to build it from first principles."               │
  ╰─────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
